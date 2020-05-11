@@ -1,0 +1,5 @@
+.MuiTableContainer-root {
+    width: 90%;
+    overflow-x: auto;
+    margin: 5%;
+}
